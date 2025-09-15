@@ -1,9 +1,44 @@
-main:
-  - title: "Posts"
-    url: /posts/
-  - title: "Categories"
-    url: /categories/
-  - title: "Tags"
-    url: /tags/
-  - title: "About"
-    url: /about/
+#main:
+ ## - title: "Posts"
+  #  url: /posts/
+  #- title: "Categories"
+   # url: /categories/
+  #- title: "Tags"
+   # url: /tags/
+  #- title: "About"
+   # url: /about/
+   ---
+title: "Home"
+layout: splash
+permalink: /
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/cyber-bg.jpg
+  caption: "Photo by [Unsplash](https://unsplash.com)"
+excerpt: "Cybersecurity Professional | Ethical Hacker | Penetration Tester"
+intro: 
+  - excerpt: "Certified ISC² & Cisco Ethical Hacker | Specialized in Penetration Testing, Vulnerability Assessment, and Risk Management."
+feature_row:
+  - image_path: /assets/images/project1.png
+    alt: "Web App Pentest"
+    title: "Web Application Penetration Test"
+    excerpt: "Exploited authentication bypass and SQL injection vulnerabilities using Burp Suite and SQLmap."
+    url: "/projects/#web-app-pentest"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/project2.png
+    alt: "Network Scan"
+    title: "Network Vulnerability Scan"
+    excerpt: "Mapped open ports, services, and OS fingerprints using Nmap and NSE scripts."
+    url: "/projects/#network-scan"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+  - image_path: /assets/images/project3.png
+    alt: "Wireshark Analysis"
+    title: "Packet Capture & Analysis"
+    excerpt: "Identified malicious traffic patterns and detected data exfiltration attempts."
+    url: "/projects/#wireshark-analysis"
+    btn_label: "View Project"
+    btn_class: "btn--primary"
+---
