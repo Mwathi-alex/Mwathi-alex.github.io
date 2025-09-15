@@ -1,45 +1,32 @@
 ---
-title: "Home"
+layout: home
+title: "Cybersecurity Portfolio"
 permalink: /
-layout: single
-author_profile: true
 ---
 
-# 👋 Welcome
+# 👋 Hi, I’m Alex Mwathi
+**ISC² Certified | Cisco Ethical Hacker | Security Researcher**
 
-I’m a **Cybersecurity Professional** with certifications in **ISC²** and **Cisco Ethical Hacking**.  
-Specialized in **Penetration Testing, Vulnerability Assessment, and Threat Analysis**.
-
----
-
-## 🎓 Certifications
-- ![ISC² Badge](/assets/images/isc2-badge.png){:height="60px"}  
-- ![Cisco Ethical Hacker Badge](/assets/images/cisco-badge.png){:height="60px"}
-
-*(Place badge images in `/assets/images/` to avoid errors.)*
+I specialize in **ethical hacking, penetration testing, and vulnerability assessment**.  
+My mission is to strengthen digital defenses by identifying, analyzing, and mitigating risks before attackers do.  
 
 ---
 
-## 🚀 Featured Projects
-
-I regularly update my portfolio with real-world projects.  
-Here are my top highlights:
-
-- **[Web Application Penetration Test](/projects/#web-app-pentest)**  
-  Authentication bypass and SQL injection findings with Burp Suite & SQLmap.
-
-- **[Network Vulnerability Scan](/projects/#network-scan)**  
-  Mapped open ports and OS fingerprints using Nmap and custom scripts.
-
-- **[Packet Capture & Analysis](/projects/#wireshark-analysis)**  
-  Detected malicious traffic with Wireshark.
+## 🛡️ Core Skills
+- **Penetration Testing**: Metasploit, Hydra, Burp Suite, SQLmap  
+- **Network Security**: Nmap, Wireshark, Nessus  
+- **Web Security**: OWASP Top 10, IDOR, Secure Coding Practices  
+- **Other**: Linux, Git, Python for Security Automation  
 
 ---
 
-## 📄 CV / Resume
-[**Download CV (PDF)**](/assets/cv.pdf){: .btn .btn--primary }
+## 📂 Explore My Work
+- [**About Me**](/about/)  
+- [**Projects**](/projects/)  
+- [**Certifications**](/about/#-certifications)  
+- [**Contact**](/contact/)  
 
 ---
 
-## 📬 Contact
-You can reach me via the **Contact** page for collaborations, consulting, or job opportunities.
+## 📄 Resume
+[![Download CV](https://img.shields.io/badge/Download-CV-blue?style=for-the-badge&logo=adobeacrobatreader)](/assets/cv/Alex-Mwathi-CV.pdf)
