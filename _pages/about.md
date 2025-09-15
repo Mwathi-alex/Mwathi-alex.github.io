@@ -1,19 +1,24 @@
 ---
 permalink: /about/
 title: "About"
+layout: single
+author_profile: true
 ---
 
 I am a cybersecurity professional with proven expertise in ethical hacking, system security, and risk management. My skills are supported by industry-recognized certifications, including:
 
-ISC² Certification – Validating my knowledge in cybersecurity principles, governance, and professional ethics.
-
-Cisco Ethical Hacker Certification – Demonstrating my capabilities in penetration testing, vulnerability analysis, and defensive security practices within modern network environments.
+- **ISC² Certification** – Validating my knowledge in cybersecurity principles, governance, and professional ethics.  
+- **Cisco Ethical Hacker Certification** – Demonstrating my capabilities in penetration testing, vulnerability analysis, and defensive security practices within modern network environments.  
 
 With this foundation, I specialize in:
 
-Conducting vulnerability assessments and penetration tests to identify and remediate security risks.
+- Conducting vulnerability assessments and penetration tests to identify and remediate security risks.  
+- Applying security frameworks and best practices to enhance organizational resilience.  
+- Leveraging tools and methodologies to detect, exploit, and mitigate potential threats.  
 
-Applying security frameworks and best practices to enhance organizational resilience.
+I am committed to continuous professional development and actively build hands-on projects to strengthen my technical expertise. My focus is on delivering measurable improvements to security posture while aligning with organizational objectives and compliance requirements.  
+
+This GitHub portfolio showcases selected projects, labs, and research that highlight both my practical experience and my commitment to advancing in the cybersecurity field.  
 
 Leveraging tools and methodologies to detect, exploit, and mitigate potential threats.
 
