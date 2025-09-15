@@ -117,6 +117,7 @@ tag_archive:
   path: /tags/
   
 theme: minimal-mistakes-jekyll
-Skin: minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+Skin:
+minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 
