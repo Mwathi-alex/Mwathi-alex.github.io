@@ -3,6 +3,20 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I am a cybersecurity professional with proven expertise in ethical hacking, system security, and risk management. My skills are supported by industry-recognized certifications, including:
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+ISC² Certification – Validating my knowledge in cybersecurity principles, governance, and professional ethics.
+
+Cisco Ethical Hacker Certification – Demonstrating my capabilities in penetration testing, vulnerability analysis, and defensive security practices within modern network environments.
+
+With this foundation, I specialize in:
+
+Conducting vulnerability assessments and penetration tests to identify and remediate security risks.
+
+Applying security frameworks and best practices to enhance organizational resilience.
+
+Leveraging tools and methodologies to detect, exploit, and mitigate potential threats.
+
+I am committed to continuous professional development and actively build hands-on projects to strengthen my technical expertise. My focus is on delivering measurable improvements to security posture while aligning with organizational objectives and compliance requirements.
+
+This GitHub portfolio showcases selected projects, labs, and research that reflect my practical experience and dedication to advancing in the cybersecurity field.
