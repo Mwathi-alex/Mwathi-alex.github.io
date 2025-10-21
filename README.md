@@ -53,7 +53,7 @@
 ---
 
 ## 🌐 Connect With Me
-💼 (https://www.linkedin.com/in/alex-mwathi/)(#)  📧 alexmwathi6@gmil.com
+💼 💼 [LinkedIn](https://www.linkedin.com/in/alex-mwathi/) 📧 alexmwathi6@gmail.com
 
 ---
 
