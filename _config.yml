@@ -1,34 +1,45 @@
-title: "Alex Mwathi – Cybersecurity Portfolio"
-description: "Ethical Hacking | Penetration Testing | Security Research"
-url: "https://mwathi-alex.github.io"
-
-# Theme
-remote_theme: "mmistakes/minimal-mistakes"
-
-# Author Information
-author:
-  name: "Alex Mwathi"
-  avatar: "/assets/images/profile.jpg"   # Upload later
-  bio: "Cisco Ethical Hacker | ISC² Certified | Offensive Security Enthusiast"
-  location: "Remote / On-site"
-  links:
-    - label: "Resume"
-      icon: "fas fa-file-pdf"
-      url: "/assets/CV.pdf"              # Upload later
-    - label: "GitHub"
-      icon: "fab fa-github"
-      url: "https://github.com/Mwathi-alex"
-
-# Plugins
-plugins:
-  - jekyll-seo-tag
-  - jekyll-sitemap
-
-# Defaults
-defaults:
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
+mwathi-alex.github.io/
+│
+├── _config.yml                      # (Your updated configuration file)
+├── index.md                         # Homepage content
+├── about.md                         # About Me page
+├── certifications.md                 # Certifications showcase
+├── projects.md                       # Portfolio / Labs / Writeups
+├── contact.md                        # Contact info & social links
+│
+├── _pages/                           # (Optional) if you prefer to organize pages here
+│   ├── pentestjourney.md             # Web pentesting journey log
+│   ├── scriptingjourney.md           # Python & Bash learning journey
+│   ├── remoteaccess.md               # Remote Access Mastery notes
+│   ├── cloudsecurity.md              # Cloud & Network Security course notes
+│   └── forensics.md                  # Forensic analysis & SOC projects
+│
+├── _posts/                           # Blog posts or writeups
+│   ├── 2025-10-22-ctf-lightweight.md # Example CTF writeup
+│   ├── 2025-09-10-network-recon.md   # Example pentesting walkthrough
+│   └── 2025-08-05-wireshark-demo.md  # Example Wireshark reconstruction demo
+│
+├── _data/                            # Optional structured data
+│   └── projects.yml                  # For listing portfolio items
+│
+├── assets/
+│   ├── images/
+│   │   ├── profile.jpg               # Your profile photo
+│   │   ├── banner.jpg                # Optional minimalist header image
+│   │   ├── certs/                    # Screenshots of certifications
+│   │   └── projects/                 # Screenshots or diagrams from labs
+│   ├── css/
+│   │   └── custom.css                # Optional custom tweaks (e.g., brand colors)
+│   ├── js/
+│   │   └── custom.js                 # Optional scripts (if needed)
+│   └── CV.pdf                        # Your resume file
+│
+├── _includes/
+│   └── custom-head.html              # Optional analytics/meta additions
+│
+├── _layouts/
+│   └── custom.html                   # For custom layouts (optional)
+│
+├── _site/                            # (Auto-generated — do NOT edit)
+│
+└── README.md                         # For repository visitors (brief project intro)
